@@ -6,3 +6,5 @@ Enhancement: Manual mode support
 
 
 Code is not shown in order to prevent academic integrity violations.
+
+![Game of Life](conwayGif.gif)
