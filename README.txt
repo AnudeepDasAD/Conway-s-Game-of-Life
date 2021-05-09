@@ -7,4 +7,4 @@ Enhancement: Manual mode support
 
 Code is not shown in order to prevent academic integrity violations.
 
-![demo](https://github.com/AnudeepDasAD/Conway-s-Game-of-Life/blob/main/conwayGif.gif)
+[!demo](https://github.com/AnudeepDasAD/Conway-s-Game-of-Life/blob/main/conwayGif.gif)
